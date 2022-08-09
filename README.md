@@ -14,3 +14,5 @@ spring:
 ```
 http://localhost:8086/test/addUser?domain=google&avatarUrl=www.google.com&companyId=123&unsubscribeLink=dawjiotawfjkpa&subsriptionType=dwadsad&createdBy=1&password_hash=123&subscriptionType=ss&unsubscribeType=32&username=aag&apiKey=12333
 ```
+## Add your own entity
+all the entity are according to the sheet in database, and some of them should extend from the BaseEntity
