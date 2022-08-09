@@ -10,7 +10,7 @@ spring:
     username: your user name
     password: your password
 '''
-- Then you can run the application, and you can try the following POST in postman:\n
+- Then you can run the application, and you can try the following POST in postman:  
 '''
 http://localhost:8086/test/addUser?domain=google&avatarUrl=www.google.com&companyId=123&unsubscribeLink=dawjiotawfjkpa&subsriptionType=dwadsad&createdBy=1&password_hash=123&subscriptionType=ss&unsubscribeType=32&username=aag&apiKey=12333
 '''
