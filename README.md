@@ -1,7 +1,7 @@
 # Module-starter
 This is a starter for building your own module, I have set up several most commonly used entities and repository, you can test it with the RESTAPI in TestController.java.
 ## Getting start
-- First you should setup the mysql server and build the database use the schema provided by Yuxuan. Then update the application.yml with your database info
+- First you should setup the mysql server and build the database use the [schema](https://intelliprogroup.larksuite.com/file/boxusVEuaqk7v9UD1zr4mgzmI22) provided by Yuxuan. Then update the application.yml with your database info
 ```
 spring:
   datasource:
